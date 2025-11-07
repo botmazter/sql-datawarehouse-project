@@ -1,6 +1,4 @@
-========================================================
-DDL Scripts: Create Bronze (layer) Tables
-========================================================
+--DDL Scripts: Create Bronze (layer) Tables
 
 DROP TABLE IF EXISTS bronze.crm_cust_info;
 GO
