@@ -8,7 +8,7 @@ CREATE TABLE bronze.crm_cust_info (
 	cust_key NVARCHAR(50),
 	cust_firstname NVARCHAR(50),
 	cust_lastname NVARCHAR(50),
-	cust_material_status NVARCHAR(50),
+	cust_marital_status NVARCHAR(50),
 	cust_gndr NVARCHAR(50),
 	cust_create_date DATE
 )
